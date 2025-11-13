@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "title": "The Future of Web Development: Trends to Watch in 2024",
+    "content": "The landscape of web development is constantly evolving, and 2024 promises to bring exciting new trends and technologies that will reshape how we build and interact with web applications.\n\nArtificial Intelligence is becoming increasingly integrated into development workflows, from code generation to automated testing. AI-powered tools are helping developers write more efficient code, catch bugs earlier, and optimize performance automatically.\n\nServer-side rendering and static site generation continue to gain popularity as developers prioritize performance and SEO. Frameworks like Next.js, Nuxt.js, and SvelteKit are leading the charge in providing excellent developer experiences while delivering fast, SEO-friendly applications.\n\nThe rise of edge computing is changing how we think about deployment and performance. By moving computation closer to users, we can achieve lower latency and better user experiences, especially for global applications.\n\nWebAssembly is opening new possibilities for web applications, allowing developers to run high-performance code written in languages like Rust, C++, and Go directly in the browser. This is particularly exciting for applications that require intensive computation.\n\nProgressive Web Apps (PWAs) are becoming more sophisticated, offering native-like experiences while maintaining the accessibility and reach of web applications. With improved offline capabilities and better integration with device features, PWAs are bridging the gap between web and native apps.",
+    "excerpt": "Explore the cutting-edge technologies and methodologies that are shaping the future of web development, from AI integration to advanced frameworks.",
+    "author": "Sarah Johnson",
+    "date": "2023-12-15T00:00:00.000Z",
+    "readTime": "8 min read",
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=400&fit=crop",
+    "featured": true,
+    "published": true,
+    "tags": [
+      "web development",
+      "AI",
+      "technology",
+      "trends"
+    ],
+    "views": 1250,
+    "likes": 89
+  },
+  {
+    "id": "2",
+    "title": "Mastering Modern Design Systems",
+    "content": "Design systems have become the backbone of modern digital product development, providing consistency, efficiency, and scalability across teams and products.\n\nA well-crafted design system serves as a single source of truth for design decisions, ensuring that every component, color, typography choice, and interaction pattern aligns with the brand's vision and user experience goals.\n\nThe foundation of any design system starts with design tokens - the smallest units of design decisions. These include colors, spacing, typography scales, and other visual properties that can be systematically applied across all touchpoints.\n\nComponent libraries are the building blocks that bring design systems to life. By creating reusable, well-documented components, teams can maintain consistency while accelerating development cycles. Tools like Storybook, Figma, and design system platforms make it easier to document and share these components.\n\nAccessibility should be baked into every aspect of your design system. This means considering color contrast ratios, keyboard navigation, screen reader compatibility, and inclusive design principles from the ground up.\n\nDocumentation is crucial for adoption and success. A design system is only as good as its documentation - clear guidelines, usage examples, and rationale behind decisions help teams understand not just what to use, but when and why to use it.",
+    "excerpt": "Learn how to create scalable and maintainable design systems that enhance user experience and streamline development workflows.",
+    "author": "Michael Chen",
+    "date": "2023-12-12T00:00:00.000Z",
+    "readTime": "6 min read",
+    "category": "Design",
+    "imageUrl": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&h=400&fit=crop",
+    "featured": true,
+    "published": true,
+    "tags": [
+      "design systems",
+      "UI/UX",
+      "design",
+      "components"
+    ],
+    "views": 980,
+    "likes": 67
+  },
+  {
+    "id": "3",
+    "title": "Building Sustainable Business Models in Tech",
+    "content": "In today's rapidly evolving technology landscape, building sustainable business models has become more crucial than ever. Companies that focus on long-term value creation rather than short-term gains are the ones that thrive in competitive markets.\n\nSustainability in business goes beyond environmental considerations. It encompasses economic viability, social responsibility, and technological adaptability. Tech companies must balance innovation with stability, growth with responsibility.\n\nOne key aspect of sustainable business models is customer-centricity. Understanding your users' needs, pain points, and behaviors allows you to create products and services that provide genuine value. This leads to higher customer retention, positive word-of-mouth, and sustainable revenue streams.\n\nAnother important factor is building diverse revenue streams. Relying on a single source of income can be risky in the volatile tech industry. Companies should explore multiple monetization strategies, from subscription models to partnerships and licensing agreements.\n\nInvestment in talent and culture is equally important. Sustainable businesses invest in their people, creating environments where innovation can flourish while maintaining work-life balance and employee satisfaction.\n\nFinally, staying adaptable and embracing change is essential. The tech industry moves fast, and companies that can pivot when necessary while maintaining their core values are more likely to succeed in the long run.",
+    "excerpt": "Discover strategies for creating long-term value and sustainable growth in the rapidly evolving technology landscape.",
+    "author": "Emily Rodriguez",
+    "date": "2023-12-10T00:00:00.000Z",
+    "readTime": "10 min read",
+    "category": "Business",
+    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop",
+    "featured": false,
+    "published": true,
+    "tags": [
+      "business",
+      "sustainability",
+      "strategy",
+      "tech"
+    ],
+    "views": 756,
+    "likes": 45
+  }
+]
